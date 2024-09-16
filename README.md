@@ -15,9 +15,9 @@ JobPortal is an online platform designed to bridge the gap between students seek
 * Applicant Management: Recruiters can view the details of all applicants who applied for a given role, including the option to view their resumes.
 * Accept or Reject Candidates: Recruiters can either accept candidates to proceed further in the hiring process or reject them based on their profile and resume.
 # Website :
-![Screenshot 2024-09-16 090628](https://github.com/user-attachments/assets/70226d7f-4f2e-4ea6-b9c8-ee8af78c07d8)
+![Screenshot 2024-09-16 090628](https://github.com/user-attachments/assets/59616502-6a57-4504-b71b-14a913ac85d5)
 
-![Screenshot 2024-09-16 090658](https://github.com/user-attachments/assets/496c3c86-2863-4502-b81b-dc5c19e0a4ea)
+![Screenshot 2024-09-16 090658](https://github.com/user-attachments/assets/4e8dd589-3566-4cba-b72a-f50da56faeb0)
 
 # Tech Stack 
 * Frontend: React.js, Tailwind CSS, Axios
